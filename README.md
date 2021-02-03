@@ -21,4 +21,5 @@ python3 keras-lstm-bidirectional-imdb.py
 ```
 
 ## Tutorial
-- full tutorial is accessible in my medium,
+- Link to the tutorial (my medium) :
+https://yunusmuhammad007.medium.com/9-install-test-tensorflow-2-x-gpu-di-jetson-nano-8bb45f5235e3
