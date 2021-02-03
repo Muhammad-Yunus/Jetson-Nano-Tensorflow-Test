@@ -8,11 +8,17 @@ https://forums.developer.nvidia.com/t/official-tensorflow-for-jetson-nano/71770
 
 ## Test Tensorflow 2.x
 - Run `tf-check-gpu.py` to check GPU is availabe to use,
-```python3 tf-check-gpu.py```<br>
+```
+python3 tf-check-gpu.py
+```<br>
 - Run `keras-cnn-mnist.py` to train CNN model using MNIST dataset,
-```python3 keras-cnn-mnist.py```<br>
+```
+python3 keras-cnn-mnist.py
+```<br>
 - Run `keras-lstm-bidirectional-imdb.py` to train LSTM Bidirectional model using IMDB dataset,
-```python3 keras-lstm-bidirectional-imdb.py```
+```
+python3 keras-lstm-bidirectional-imdb.py
+```
 
 ## Tutorial
 - full tutorial is accessible in my medium,
