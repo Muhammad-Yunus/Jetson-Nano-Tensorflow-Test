@@ -3,7 +3,7 @@
 L4T (Linux 4 Tegra) OS is not prebuild with Tensorflow. Luckily NVIDIA provides us with a Tensorflow binary which can be installed via pip (python package manager). 
 
 ## Official TensorFlow for Jetson Nano!
-- Official TensorFlow release for Jetson Nano for JetPact 4.5/4.4/4.3 in Python 3.6 :
+- Official TensorFlow release for Jetson Nano with JetPack 4.5/4.4/4.3 in Python 3.6 :
 https://forums.developer.nvidia.com/t/official-tensorflow-for-jetson-nano/71770
 
 ## Test Tensorflow 2.x
